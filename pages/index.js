@@ -20,7 +20,7 @@ export default function Home() {
       <div>
         <div>
           Time Left:
-          <Countdown date={new Date("Jul 16, 2023")} className='px-2'/>
+          <Countdown date={new Date("Jun 18, 2024")} className='px-2'/>
         </div>
       <div className='text-xl pt-3'>Be Wise and Don&#39;t Get Distracted™️</div>
       <div>
